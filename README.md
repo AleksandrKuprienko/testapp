@@ -1,16 +1,12 @@
 # testapp
+Тестовое задание.
+Сделал первый тест который проверяет выводится ли виджет Text() на экран.
 
-A new Flutter project.
+# Исследования Color()
+https://gist.github.com/AleksandrKuprienko/6e0b91e991dbae2fec1e12f0dfdfade2
 
-## Getting Started
+# Ресурсы 
+https://api.flutter.dev/flutter/dart-ui/Color-class.html
+http://developer.alexanderklimov.ru/android/catshop/color.php
+https://convertingcolors.com/
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
